@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>blog</title>
+        <title>wu138di&#39;s blog</title>
         <link>https://wu138di.us.kg/</link>
-        <description>Recent content on blog</description>
+        <description>Recent content on wu138di&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="https://wu138di.us.kg/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-cn</language>
+        <copyright>wu138di</copyright><atom:link href="https://wu138di.us.kg/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
