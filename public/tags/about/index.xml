@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>About on wu138di&#39;s blog</title>
+        <link>http://localhost:1313/tags/about/</link>
+        <description>Recent content in About on wu138di&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>wu138di</copyright>
+        <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>自我介绍</title>
+        <link>http://localhost:1313/post/me/</link>
+        <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/me/</guid>
+        <description>&lt;p&gt;这是一个自我介绍，来介绍博主wu138di的，感谢listder的大力支持！&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
