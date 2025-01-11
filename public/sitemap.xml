@@ -17,6 +17,12 @@
   </url><url>
     <loc>http://localhost:1313/friends/friends/</loc>
   </url><url>
+    <loc>http://localhost:1313/home/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/home/</loc>
+  </url><url>
+    <loc>http://localhost:1313/start/</loc>
+  </url><url>
     <loc>http://localhost:1313/post/me/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
