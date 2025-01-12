@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on wu138di&#39;s blog</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on wu138di&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>wu138di</copyright>
+        <lastBuildDate>Sun, 12 Jan 2025 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>事故</title>
+        <link>http://localhost:1313/posts/my-first-post/</link>
+        <pubDate>Sun, 12 Jan 2025 12:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/my-first-post/</guid>
+        <description>&lt;p&gt;好像。。。好了？怎么可能！没好啊。。。。但尽量更新吧
+进度：40%&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

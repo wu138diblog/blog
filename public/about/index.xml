@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Abouts on wu138di&#39;s blog</title>
+        <link>http://localhost:1313/about/</link>
+        <description>Recent content in Abouts on wu138di&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>wu138di</copyright><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>http://localhost:1313/about/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/about/</guid>
+        <description>&lt;p&gt;这是一个自我介绍，本人喜欢许多东西，像gal啊，吉他啊，技术系列啊，等等。本人比较开放，所以联络我时请尽情畅所欲言。But 请不要涉及到政治等一系列的敏感话题哦。谢谢！这个blog会发一些自己的琐事or一些资源的，敬请期待哦🥰。
+另外感谢我的朋友listder，没有他的技术支持，这个blog网站也不会有了。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
