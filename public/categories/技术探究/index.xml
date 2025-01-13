@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>技术探究 on wu138di&#39;s blog</title>
+        <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%A9%B6/</link>
+        <description>Recent content in 技术探究 on wu138di&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>wu138di</copyright>
+        <lastBuildDate>Tue, 14 Jan 2025 01:16:16 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>KonomiTV研究</title>
+        <link>http://localhost:1313/post/konomitv/</link>
+        <pubDate>Tue, 14 Jan 2025 01:16:16 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/konomitv/</guid>
+        <description>&lt;img src="http://localhost:1313/post/konomiTVobject/0.png" alt="Featured image of post KonomiTV研究" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/konomiTVobject/1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+&amp;hellip;..这是我见过最难配置的电视直播软件，它有以下几个门槛：&lt;/p&gt;
+&lt;h1 id=&#34;1安装界面看不懂&#34;&gt;1：安装界面看不懂
+&lt;/h1&gt;&lt;p&gt;这是它的安装界面：
+&lt;img src=&#34;http://localhost:1313/post/konomiTVobject/2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+要有一定的日语水准才行(or 借助大模型？反正我看得懂)&lt;/p&gt;
+&lt;h1 id=&#34;2不清楚edcb是什么&#34;&gt;2：不清楚EDCB是什么
+&lt;/h1&gt;&lt;p&gt;这个。。。。。我到现在也不清楚是什么，官方是这么介绍的：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;EDCB（Epg Data Cap Bonanza） は、日本で開発されたオープンソースのツールで、デジタルテレビ（DTV）の番組データを管理するために使用されます。主に地上デジタル放送（地デジ、GR）や衛星放送（BS/CS）の信号を受信して録画するために利用されます。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; (&lt;span style=&#34;color: blue; &#34;&gt;
+    EDCB（Epg Data Cap Bonanza） 是一款用于管理数字电视（DTV）节目数据的日本开源工具，主要用于接收和录制电视信号。它通常被用作日本地面数字电视（地上デジタル，GR）、卫星电视（BS/CS）的节目录像工具。EDCB 功能强大，可以实现定时录制、电子节目表（EPG）管理、后台自动化操作等。
+&lt;/span&gt;
+
+)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;研究中.jpg
+以及这个：&lt;code&gt;Mirakurun&lt;/code&gt;
+&lt;img src=&#34;http://localhost:1313/post/konomiTVobject/3.svg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+&lt;code&gt;好像要linux环境配置？&lt;/code&gt;
+嘛，正在研究中，搞好了这个，看电视直播以及看番组表不愁了，嘻嘻。
+贴上有关link：&lt;/p&gt;
+&lt;h1 id=&#34;konomitv&#34;&gt;konomiTV
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/tsukumijima/KonomiTV/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/tsukumijima/KonomiTV/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;edcb&#34;&gt;EDCB
+&lt;/h1&gt;&lt;p&gt;&lt;code&gt;xtne6f版&lt;/code&gt;:https://github.com/xtne6f/EDCB
+&lt;code&gt;tkntrec版&lt;/code&gt;:https://github.com/tkntrec/EDCB&lt;/p&gt;
+&lt;h1 id=&#34;mirakurun&#34;&gt;Mirakurun
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Chinachu/Mirakurun&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Chinachu/Mirakurun&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;不早了，第二天更新结束。
+&lt;span style=&#34;color: red; &#34;&gt;
+    それじゃ、おやすみ、見なさん
+&lt;/span&gt;
+
+&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

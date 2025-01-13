@@ -6,6 +6,23 @@
         <description>Recent content in Categories on wu138di&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>wu138di</copyright><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>wu138di</copyright>
+        <lastBuildDate>Tue, 14 Jan 2025 01:16:16 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>技术探究</title>
+        <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%A9%B6/</link>
+        <pubDate>Tue, 14 Jan 2025 01:16:16 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%A9%B6/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>工具推荐</title>
+        <link>http://localhost:1313/categories/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/</link>
+        <pubDate>Mon, 13 Jan 2025 00:20:17 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

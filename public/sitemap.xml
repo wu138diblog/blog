@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-01-14T01:16:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jp/</loc>
+    <lastmod>2025-01-14T01:16:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/konomitv/</loc>
+    <lastmod>2025-01-14T01:16:16+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-01-13T00:20:17+08:00</lastmod>
+    <lastmod>2025-01-14T01:16:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-14T01:16:16+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-14T01:16:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%AE%9E%E7%94%A8/</loc>
+    <lastmod>2025-01-14T01:16:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2025-01-14T01:16:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%A9%B6/</loc>
+    <lastmod>2025-01-14T01:16:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2025-01-13T00:20:17+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/tools/</loc>
@@ -26,10 +50,6 @@
   </url><url>
     <loc>http://localhost:1313/start/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
     <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

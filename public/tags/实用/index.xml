@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>wu138di&#39;s blog</title>
-        <link>http://localhost:1313/</link>
-        <description>Recent content on wu138di&#39;s blog</description>
+        <title>实用 on wu138di&#39;s blog</title>
+        <link>http://localhost:1313/tags/%E5%AE%9E%E7%94%A8/</link>
+        <description>Recent content in 实用 on wu138di&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>wu138di</copyright>
-        <lastBuildDate>Tue, 14 Jan 2025 01:16:16 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 14 Jan 2025 01:16:16 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%AE%9E%E7%94%A8/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>KonomiTV研究</title>
         <link>http://localhost:1313/post/konomitv/</link>
         <pubDate>Tue, 14 Jan 2025 01:16:16 +0800</pubDate>
@@ -31,12 +31,8 @@
 	loading=&#34;lazy&#34;
 	
 	
-&gt;&lt;/p&gt;
-&lt;p&gt;要有一定的日语水准才行(&lt;span style=&#34;color: red; &#34;&gt;
-    or 借助大模型？反正我看得懂
-&lt;/span&gt;
-
-)&lt;/p&gt;
+&gt;
+要有一定的日语水准才行(or 借助大模型？反正我看得懂)&lt;/p&gt;
 &lt;h1 id=&#34;2不清楚edcb是什么&#34;&gt;2：不清楚EDCB是什么
 &lt;/h1&gt;&lt;p&gt;这个。。。。。我到现在也不清楚是什么，官方是这么介绍的：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -62,16 +58,16 @@
 	loading=&#34;lazy&#34;
 	
 	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;好像要linux环境配置？&lt;/code&gt;
+&gt;
+&lt;code&gt;好像要linux环境配置？&lt;/code&gt;
 嘛，正在研究中，搞好了这个，看电视直播以及看番组表不愁了，嘻嘻。
 贴上有关link：&lt;/p&gt;
 &lt;h1 id=&#34;konomitv&#34;&gt;konomiTV
 &lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/tsukumijima/KonomiTV/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/tsukumijima/KonomiTV/&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;edcb&#34;&gt;EDCB
-&lt;/h1&gt;&lt;p&gt;&lt;code&gt;xtne6f版&lt;/code&gt;:https://github.com/xtne6f/EDCB&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;tkntrec版&lt;/code&gt;:https://github.com/tkntrec/EDCB&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;code&gt;xtne6f版&lt;/code&gt;:https://github.com/xtne6f/EDCB
+&lt;code&gt;tkntrec版&lt;/code&gt;:https://github.com/tkntrec/EDCB&lt;/p&gt;
 &lt;h1 id=&#34;mirakurun&#34;&gt;Mirakurun
 &lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Chinachu/Mirakurun&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/Chinachu/Mirakurun&lt;/a&gt;&lt;/p&gt;
@@ -272,162 +268,6 @@
 
 &lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>Frist update? No....</title>
-        <link>http://localhost:1313/post/frist-no/</link>
-        <pubDate>Mon, 13 Jan 2025 00:10:26 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/frist-no/</guid>
-        <description>&lt;p&gt;好了？没好啊。。。。。拿我老爸电脑搞得，尽量吧，嘻嘻，来个首发语吧！&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Python&#34; data-lang=&#34;Python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello,World,and welcome my blog!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>http://localhost:1313/archives/</link>
-        <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title></title>
-        <link>http://localhost:1313/about/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/about/</guid>
-        <description>&lt;p&gt;这是一个自我介绍，本人喜欢许多东西，像gal啊，吉他啊，技术系列啊，等等。本人比较开放，所以联络我时请尽情畅所欲言。But 请不要涉及到政治等一系列的敏感话题哦。谢谢！这个blog会发一些自己的琐事or一些资源的，敬请期待哦🥰。
-另外感谢我的朋友listder，没有他的技术支持，这个blog网站也不会有了。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title></title>
-        <link>http://localhost:1313/friends/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/friends/</guid>
-        <description>&lt;h1 id=&#34;我的朋友们my-friends&#34;&gt;我的朋友们（My Friends）
-&lt;/h1&gt;
-&lt;style&gt;
-   .friendurl {
-   text-decoration: none !important;
-   color: black;
-   }
-   .myfriend {
-   width: 56px !important;
-   height: 56px !important;
-   border-radius: 50%;
-   border: 1px solid #ddd;
-   padding: 2px;
-   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
-   margin-top: 14px !important;
-   margin-left: 14px !important;
-   background-color: #fff;
-   }
-   .frienddiv {
-   height: 92px;
-   margin-top: 10px;
-   width: 48%;
-   display: inline-block !important;
-   border-radius: 5px;
-   background: rgba(255, 255, 255, 0.2);
-   box-shadow: 4px 4px 2px 1px rgba(0, 0, 255, 0.2);
-   }
-   .frienddiv:hover {
-   background: rgba(87, 142, 224, 0.15);
-   }
-   .frienddiv:hover .frienddivleft img {
-   transition: 0.9s !important;
-   -webkit-transition: 0.9s !important;
-   -moz-transition: 0.9s !important;
-   -o-transition: 0.9s !important;
-   -ms-transition: 0.9s !important;
-   transform: rotate(360deg) !important;
-   -webkit-transform: rotate(360deg) !important;
-   -moz-transform: rotate(360deg) !important;
-   -o-transform: rotate(360deg) !important;
-   -ms-transform: rotate(360deg) !important;
-   }
-   .frienddivleft {
-   width: 92px;
-   float: left;
-   }
-   .frienddivleft {
-   margin-right: 2px;
-   }
-   .frienddivright {
-   margin-top: 18px;
-   margin-right: 18px;
-   }
-   .friendname {
-   text-overflow: ellipsis;
-   overflow: hidden;
-   white-space: nowrap;
-   }
-   .friendinfo {
-   text-overflow: ellipsis;
-   overflow: hidden;
-   white-space: nowrap;
-   }
-   @media screen and (max-width: 600px) {
-   .friendinfo {
-   display: none;
-   }
-   .frienddivleft {
-   width: 84px;
-   margin: auto;
-   }
-   .frienddivright {
-   height: 100%;
-   margin: auto;
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   }
-   .friendname {
-   font-size: 14px;
-   }
-   }
-&lt;/style&gt;
-&lt;a target=&#34;_blank&#34; href=https://blog.listder.xyz title=listder class=&#34;friendurl&#34;&gt;
-&lt;div class=&#34;frienddiv&#34;&gt;
-   &lt;div class=&#34;frienddivleft&#34;&gt;
-      &lt;img class=&#34;myfriend&#34; src=http://localhost:1313/friends/listder.webp /&gt;
-   &lt;/div&gt;
-   &lt;div class=&#34;frienddivright&#34;&gt;
-      &lt;div class=&#34;friendname&#34;&gt;listder&lt;/div&gt;
-      &lt;div class=&#34;friendinfo&#34;&gt;I&amp;#39;m lolicon!&lt;/div&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-
-</description>
-        </item>
-        <item>
-        <title></title>
-        <link>http://localhost:1313/start/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/start/</guid>
-        <description>&lt;p&gt;day = 2024.12.30
-今天，我们举办了元旦晚会，2025年，新的起始，新的起点,一起加油吧！&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>http://localhost:1313/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/search/</guid>
-        <description></description>
         </item>
         
     </channel>

@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr">
     <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="刚好无事，介绍一些有趣的工具吧，嘻嘻\nChatGPT\rhttps://chatgpt.com/\n音乐解锁器\rhttps://unlock-music.lmb520.cn/ (这个不会的要看教程哦 link:https://blog.lmb520.cn/archives/1348/)\nSteamtools\r这个我觉得不用我多说了，懂得都懂。 https://www.steamtools.net\nand 有专门的论坛哦 https://bbs.steamtools.net Galgame\r目前来说，我推荐3个\n真红姐姐的gal小站：\rhttps://www.shinnku.com TouchGal\rhttps://www.touchgal.io/ 月幕的Galgame\rhttps://www.ymgal.games/ 群友推荐的，放这里一份。\nアニメ新番組 看番/新番表\rhttps://bangumi.online/\nAnime1\rhttps://anime1.me/\nHanime1\rhttps://hanime1.me/\nGirlgirllove\rhttps://anime.girigirilove.com/\n樱之空\rhttps://www.skr3.cc/\nE-ACG BD原盘\rhttps://eacg.net/\nnyafun BD原盘\rhttps://www.nyafun.net/ —\n纯纯看番 在线 插件源\rhttps://github.com/easybangumiorg/EasyBangumi https://github.com/easybangumiorg/CommunityExtension https://github.com/phj233/EasyBangumi-Extension-GuguFan\nKazumi\rhttps://github.com/Predidit/Kazumi\nKnkpanime\rhttps://github.com/KNKPA/KNKPAnime\noneAnime\rhttps://github.com/Predidit/oneAnime/ #Any-reader https://github.com/aooiuu/any-reader\n">
-<title>有趣的工具</title>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content=" &hellip;..这是我见过最难配置的电视直播软件，它有以下几个门槛：\n1：安装界面看不懂\r这是它的安装界面： 要有一定的日语水准才行(\ror 借助大模型？反正我看得懂\r)\n2：不清楚EDCB是什么\r这个。。。。。我到现在也不清楚是什么，官方是这么介绍的：\n1 2 EDCB（Epg Data Cap Bonanza） は、日本で開発されたオープンソースのツールで、デジタルテレビ（DTV）の番組データを管理するために使用されます。主に地上デジタル放送（地デジ、GR）や衛星放送（BS/CS）の信号を受信して録画するために利用されます。 (\rEDCB（Epg Data Cap Bonanza） 是一款用于管理数字电视（DTV）节目数据的日本开源工具，主要用于接收和录制电视信号。它通常被用作日本地面数字电视（地上デジタル，GR）、卫星电视（BS/CS）的节目录像工具。EDCB 功能强大，可以实现定时录制、电子节目表（EPG）管理、后台自动化操作等。\r) 研究中.jpg 以及这个：Mirakurun 好像要linux环境配置？ 嘛，正在研究中，搞好了这个，看电视直播以及看番组表不愁了，嘻嘻。 贴上有关link：\nkonomiTV\rhttps://github.com/tsukumijima/KonomiTV/\nEDCB\rxtne6f版:https://github.com/xtne6f/EDCB\ntkntrec版:https://github.com/tkntrec/EDCB\nMirakurun\rhttps://github.com/Chinachu/Mirakurun\n不早了，第二天更新结束。 それじゃ、おやすみ、見なさん\r">
+<title>KonomiTV研究</title>
 
-<link rel='canonical' href='http://localhost:1313/post/tools/'>
+<link rel='canonical' href='http://localhost:1313/post/konomitv/'>
 
-<link rel="stylesheet" href="/scss/style.min.b9c8156d464c343bdacaf14a871581fb94cbbdb9dd5cbce4ba017361187cc930.css"><meta property='og:title' content="有趣的工具">
-<meta property='og:description' content="刚好无事，介绍一些有趣的工具吧，嘻嘻\nChatGPT\rhttps://chatgpt.com/\n音乐解锁器\rhttps://unlock-music.lmb520.cn/ (这个不会的要看教程哦 link:https://blog.lmb520.cn/archives/1348/)\nSteamtools\r这个我觉得不用我多说了，懂得都懂。 https://www.steamtools.net\nand 有专门的论坛哦 https://bbs.steamtools.net Galgame\r目前来说，我推荐3个\n真红姐姐的gal小站：\rhttps://www.shinnku.com TouchGal\rhttps://www.touchgal.io/ 月幕的Galgame\rhttps://www.ymgal.games/ 群友推荐的，放这里一份。\nアニメ新番組 看番/新番表\rhttps://bangumi.online/\nAnime1\rhttps://anime1.me/\nHanime1\rhttps://hanime1.me/\nGirlgirllove\rhttps://anime.girigirilove.com/\n樱之空\rhttps://www.skr3.cc/\nE-ACG BD原盘\rhttps://eacg.net/\nnyafun BD原盘\rhttps://www.nyafun.net/ —\n纯纯看番 在线 插件源\rhttps://github.com/easybangumiorg/EasyBangumi https://github.com/easybangumiorg/CommunityExtension https://github.com/phj233/EasyBangumi-Extension-GuguFan\nKazumi\rhttps://github.com/Predidit/Kazumi\nKnkpanime\rhttps://github.com/KNKPA/KNKPAnime\noneAnime\rhttps://github.com/Predidit/oneAnime/ #Any-reader https://github.com/aooiuu/any-reader\n">
-<meta property='og:url' content='http://localhost:1313/post/tools/'>
+<link rel="stylesheet" href="/scss/style.min.b9c8156d464c343bdacaf14a871581fb94cbbdb9dd5cbce4ba017361187cc930.css"><meta property='og:title' content="KonomiTV研究">
+<meta property='og:description' content=" &hellip;..这是我见过最难配置的电视直播软件，它有以下几个门槛：\n1：安装界面看不懂\r这是它的安装界面： 要有一定的日语水准才行(\ror 借助大模型？反正我看得懂\r)\n2：不清楚EDCB是什么\r这个。。。。。我到现在也不清楚是什么，官方是这么介绍的：\n1 2 EDCB（Epg Data Cap Bonanza） は、日本で開発されたオープンソースのツールで、デジタルテレビ（DTV）の番組データを管理するために使用されます。主に地上デジタル放送（地デジ、GR）や衛星放送（BS/CS）の信号を受信して録画するために利用されます。 (\rEDCB（Epg Data Cap Bonanza） 是一款用于管理数字电视（DTV）节目数据的日本开源工具，主要用于接收和录制电视信号。它通常被用作日本地面数字电视（地上デジタル，GR）、卫星电视（BS/CS）的节目录像工具。EDCB 功能强大，可以实现定时录制、电子节目表（EPG）管理、后台自动化操作等。\r) 研究中.jpg 以及这个：Mirakurun 好像要linux环境配置？ 嘛，正在研究中，搞好了这个，看电视直播以及看番组表不愁了，嘻嘻。 贴上有关link：\nkonomiTV\rhttps://github.com/tsukumijima/KonomiTV/\nEDCB\rxtne6f版:https://github.com/xtne6f/EDCB\ntkntrec版:https://github.com/tkntrec/EDCB\nMirakurun\rhttps://github.com/Chinachu/Mirakurun\n不早了，第二天更新结束。 それじゃ、おやすみ、見なさん\r">
+<meta property='og:url' content='http://localhost:1313/post/konomitv/'>
 <meta property='og:site_name' content='wu138di&#39;s blog'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='工具' /><meta property='article:tag' content='实用' /><meta property='article:published_time' content='2025-01-13T00:20:17&#43;08:00'/><meta property='article:modified_time' content='2025-01-13T00:20:17&#43;08:00'/><meta property='og:image' content='http://localhost:1313/post/some-interesting-tools/toolgirl.png' />
-<meta name="twitter:title" content="有趣的工具">
-<meta name="twitter:description" content="刚好无事，介绍一些有趣的工具吧，嘻嘻\nChatGPT\rhttps://chatgpt.com/\n音乐解锁器\rhttps://unlock-music.lmb520.cn/ (这个不会的要看教程哦 link:https://blog.lmb520.cn/archives/1348/)\nSteamtools\r这个我觉得不用我多说了，懂得都懂。 https://www.steamtools.net\nand 有专门的论坛哦 https://bbs.steamtools.net Galgame\r目前来说，我推荐3个\n真红姐姐的gal小站：\rhttps://www.shinnku.com TouchGal\rhttps://www.touchgal.io/ 月幕的Galgame\rhttps://www.ymgal.games/ 群友推荐的，放这里一份。\nアニメ新番組 看番/新番表\rhttps://bangumi.online/\nAnime1\rhttps://anime1.me/\nHanime1\rhttps://hanime1.me/\nGirlgirllove\rhttps://anime.girigirilove.com/\n樱之空\rhttps://www.skr3.cc/\nE-ACG BD原盘\rhttps://eacg.net/\nnyafun BD原盘\rhttps://www.nyafun.net/ —\n纯纯看番 在线 插件源\rhttps://github.com/easybangumiorg/EasyBangumi https://github.com/easybangumiorg/CommunityExtension https://github.com/phj233/EasyBangumi-Extension-GuguFan\nKazumi\rhttps://github.com/Predidit/Kazumi\nKnkpanime\rhttps://github.com/KNKPA/KNKPAnime\noneAnime\rhttps://github.com/Predidit/oneAnime/ #Any-reader https://github.com/aooiuu/any-reader\n"><meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content='http://localhost:1313/post/some-interesting-tools/toolgirl.png' />
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='工具' /><meta property='article:tag' content='实用' /><meta property='article:tag' content='JP' /><meta property='article:published_time' content='2025-01-14T01:16:16&#43;08:00'/><meta property='article:modified_time' content='2025-01-14T01:16:16&#43;08:00'/><meta property='og:image' content='http://localhost:1313/post/konomiTVobject/0.png' />
+<meta name="twitter:title" content="KonomiTV研究">
+<meta name="twitter:description" content=" &hellip;..这是我见过最难配置的电视直播软件，它有以下几个门槛：\n1：安装界面看不懂\r这是它的安装界面： 要有一定的日语水准才行(\ror 借助大模型？反正我看得懂\r)\n2：不清楚EDCB是什么\r这个。。。。。我到现在也不清楚是什么，官方是这么介绍的：\n1 2 EDCB（Epg Data Cap Bonanza） は、日本で開発されたオープンソースのツールで、デジタルテレビ（DTV）の番組データを管理するために使用されます。主に地上デジタル放送（地デジ、GR）や衛星放送（BS/CS）の信号を受信して録画するために利用されます。 (\rEDCB（Epg Data Cap Bonanza） 是一款用于管理数字电视（DTV）节目数据的日本开源工具，主要用于接收和录制电视信号。它通常被用作日本地面数字电视（地上デジタル，GR）、卫星电视（BS/CS）的节目录像工具。EDCB 功能强大，可以实现定时录制、电子节目表（EPG）管理、后台自动化操作等。\r) 研究中.jpg 以及这个：Mirakurun 好像要linux环境配置？ 嘛，正在研究中，搞好了这个，看电视直播以及看番组表不愁了，嘻嘻。 贴上有关link：\nkonomiTV\rhttps://github.com/tsukumijima/KonomiTV/\nEDCB\rxtne6f版:https://github.com/xtne6f/EDCB\ntkntrec版:https://github.com/tkntrec/EDCB\nMirakurun\rhttps://github.com/Chinachu/Mirakurun\n不早了，第二天更新结束。 それじゃ、おやすみ、見なさん\r"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='http://localhost:1313/post/konomiTVobject/0.png' />
     <link rel="shortcut icon" href="/static/favicon.webp" />
 
     </head>
@@ -230,52 +230,15 @@
     </ol>
 </aside>
 
-    <aside class="sidebar right-sidebar sticky">
-        
-            
-                
-    <section class="widget archives">
-        <div class="widget-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <line x1="5" y1="9" x2="19" y2="9" />
-  <line x1="5" y1="15" x2="19" y2="15" />
-  <line x1="11" y1="4" x2="7" y2="20" />
-  <line x1="17" y1="4" x2="13" y2="20" />
-</svg>
-
-
-
-        </div>
-        <h2 class="widget-title section-title">Table of contents</h2>
-        
-        <div class="widget--toc">
-            <nav id="TableOfContents">
-  <ol>
-    <li><a href="#chatgpt">ChatGPT</a></li>
-    <li><a href="#音乐解锁器">音乐解锁器</a></li>
-    <li><a href="#steamtools">Steamtools</a></li>
-    <li><a href="#galgame">Galgame</a></li>
-    <li><a href="#真红姐姐的gal小站">真红姐姐的gal小站：</a></li>
-    <li><a href="#touchgal">TouchGal</a></li>
-    <li><a href="#月幕的galgame">月幕的Galgame</a></li>
-  </ol>
-</nav>
-        </div>
-    </section>
-
-            
-        
-    </aside>
-
+    
 
             <main class="main full-width">
     <article class="has-image main-article">
     <header class="article-header">
         <div class="article-image">
-            <a href="/post/tools/">
+            <a href="/post/konomitv/">
                 
-                    <img src="/post/some-interesting-tools/toolgirl.png" loading="lazy" alt="Featured image of post 有趣的工具" />
+                    <img src="/post/konomiTVobject/0.png" loading="lazy" alt="Featured image of post KonomiTV研究" />
                 
             </a>
         </div>
@@ -285,8 +248,8 @@
     
     <header class="article-category">
         
-            <a href="/categories/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/" >
-                工具推荐
+            <a href="/categories/%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%A9%B6/" >
+                技术探究
             </a>
         
     </header>
@@ -294,7 +257,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/post/tools/">有趣的工具</a>
+            <a href="/post/konomitv/">KonomiTV研究</a>
         </h2>
     
         
@@ -316,7 +279,7 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Jan 13, 2025</time>
+                <time class="article-time--published">Jan 14, 2025</time>
             </div>
         
 
@@ -346,18 +309,18 @@
     <section class="article-content">
     
     
-    <p>刚好无事，介绍一些有趣的工具吧，嘻嘻</p>
-<h2 id="chatgpt">ChatGPT
-</h2><p><a class="link" href="https://chatgpt.com/"  target="_blank" rel="noopener"
-    >https://chatgpt.com/</a></p>
-<h2 id="音乐解锁器">音乐解锁器
-</h2><p><a class="link" href="https://unlock-music.lmb520.cn/"  target="_blank" rel="noopener"
-    >https://unlock-music.lmb520.cn/</a>
-(这个不会的要看教程哦 link:https://blog.lmb520.cn/archives/1348/)</p>
-<h2 id="steamtools">Steamtools
-</h2><p>这个我觉得不用我多说了，懂得都懂。 <a class="link" href="https://www.steamtools.net"  target="_blank" rel="noopener"
-    >https://www.steamtools.net</a></p>
-<p><img src="/post/some-interesting-tools/st.png"
+    <p><img src="/post/konomiTVobject/1.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+>
+&hellip;..这是我见过最难配置的电视直播软件，它有以下几个门槛：</p>
+<h1 id="1安装界面看不懂">1：安装界面看不懂
+</h1><p>这是它的安装界面：
+<img src="/post/konomiTVobject/2.png"
 	
 	
 	
@@ -365,9 +328,30 @@
 	
 	
 ></p>
-<p>and 有专门的论坛哦 <a class="link" href="https://bbs.steamtools.net"  target="_blank" rel="noopener"
-    >https://bbs.steamtools.net</a>
-<img src="/post/some-interesting-tools/st-bbs.png"
+<p>要有一定的日语水准才行(<span style="color: red; ">
+    or 借助大模型？反正我看得懂
+</span>
+
+)</p>
+<h1 id="2不清楚edcb是什么">2：不清楚EDCB是什么
+</h1><p>这个。。。。。我到现在也不清楚是什么，官方是这么介绍的：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">EDCB（Epg Data Cap Bonanza） は、日本で開発されたオープンソースのツールで、デジタルテレビ（DTV）の番組データを管理するために使用されます。主に地上デジタル放送（地デジ、GR）や衛星放送（BS/CS）の信号を受信して録画するために利用されます。
+</span></span><span class="line"><span class="cl"> (<span style="color: blue; ">
+    EDCB（Epg Data Cap Bonanza） 是一款用于管理数字电视（DTV）节目数据的日本开源工具，主要用于接收和录制电视信号。它通常被用作日本地面数字电视（地上デジタル，GR）、卫星电视（BS/CS）的节目录像工具。EDCB 功能强大，可以实现定时录制、电子节目表（EPG）管理、后台自动化操作等。
+</span>
+
+)
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>研究中.jpg
+以及这个：<code>Mirakurun</code>
+<img src="/post/konomiTVobject/3.svg"
 	
 	
 	
@@ -375,154 +359,19 @@
 	
 	
 ></p>
-<h2 id="galgame">Galgame
-</h2><p>目前来说，我推荐3个</p>
-<h2 id="真红姐姐的gal小站">真红姐姐的gal小站：
-</h2><p><a class="link" href="https://www.shinnku.com"  target="_blank" rel="noopener"
-    >https://www.shinnku.com</a>
-<img src="/post/some-interesting-tools/zh.png"
-	
-	
-	
-	loading="lazy"
-	
-	
-></p>
-<h2 id="touchgal">TouchGal
-</h2><p><a class="link" href="https://www.touchgal.io/"  target="_blank" rel="noopener"
-    >https://www.touchgal.io/</a>
-<img src="/post/some-interesting-tools/touch.png"
-	
-	
-	
-	loading="lazy"
-	
-	
-></p>
-<h2 id="月幕的galgame">月幕的Galgame
-</h2><p><a class="link" href="https://www.ymgal.games/"  target="_blank" rel="noopener"
-    >https://www.ymgal.games/</a>
-<img src="/post/some-interesting-tools/ym.png"
-	
-	
-	
-	loading="lazy"
-	
-	
-></p>
-<p>群友推荐的，放这里一份。</p>
-<h1 id="アニメ新番組---看番新番表">アニメ新番組   看番/新番表
-</h1><p><a class="link" href="https://bangumi.online/"  target="_blank" rel="noopener"
-    >https://bangumi.online/</a></p>
-<h1 id="anime1">Anime1
-</h1><p><a class="link" href="https://anime1.me/"  target="_blank" rel="noopener"
-    >https://anime1.me/</a></p>
-<h1 id="hanime1">Hanime1
-</h1><p><a class="link" href="https://hanime1.me/"  target="_blank" rel="noopener"
-    >https://hanime1.me/</a></p>
-<h1 id="girlgirllove">Girlgirllove
-</h1><p><a class="link" href="https://anime.girigirilove.com/"  target="_blank" rel="noopener"
-    >https://anime.girigirilove.com/</a></p>
-<h1 id="樱之空">樱之空
-</h1><p><a class="link" href="https://www.skr3.cc/"  target="_blank" rel="noopener"
-    >https://www.skr3.cc/</a></p>
-<h1 id="e-acg-bd原盘">E-ACG BD原盘
-</h1><p><a class="link" href="https://eacg.net/"  target="_blank" rel="noopener"
-    >https://eacg.net/</a></p>
-<h1 id="nyafun-bd原盘">nyafun BD原盘
-</h1><p><a class="link" href="https://www.nyafun.net/"  target="_blank" rel="noopener"
-    >https://www.nyafun.net/</a>
-—</p>
-<h1 id="纯纯看番-在线-插件源">纯纯看番 <code>在线</code> <code>插件源</code>
-</h1><p><a class="link" href="https://github.com/easybangumiorg/EasyBangumi"  target="_blank" rel="noopener"
-    >https://github.com/easybangumiorg/EasyBangumi</a>
-<a class="link" href="https://github.com/easybangumiorg/CommunityExtension"  target="_blank" rel="noopener"
-    >https://github.com/easybangumiorg/CommunityExtension</a>
-<a class="link" href="https://github.com/phj233/EasyBangumi-Extension-GuguFan"  target="_blank" rel="noopener"
-    >https://github.com/phj233/EasyBangumi-Extension-GuguFan</a></p>
-<h1 id="kazumi">Kazumi
-</h1><p><a class="link" href="https://github.com/Predidit/Kazumi"  target="_blank" rel="noopener"
-    >https://github.com/Predidit/Kazumi</a></p>
-<h1 id="knkpanime">Knkpanime
-</h1><p><a class="link" href="https://github.com/KNKPA/KNKPAnime"  target="_blank" rel="noopener"
-    >https://github.com/KNKPA/KNKPAnime</a></p>
-<h1 id="oneanime">oneAnime
-</h1><p><a class="link" href="https://github.com/Predidit/oneAnime/"  target="_blank" rel="noopener"
-    >https://github.com/Predidit/oneAnime/</a>
-#Any-reader
-<a class="link" href="https://github.com/aooiuu/any-reader"  target="_blank" rel="noopener"
-    >https://github.com/aooiuu/any-reader</a></p>
-<h1 id="aniyomi-fork--在线-插件源">Aniyomi-fork  <code>在线</code> <code>插件源</code>
-</h1><p><a class="link" href="https://aniyomi.org/"  target="_blank" rel="noopener"
-    >https://aniyomi.org/</a>
-<a class="link" href="https://wotaku.moe/guides/tech/repo"  target="_blank" rel="noopener"
-    >https://wotaku.moe/guides/tech/repo</a></p>
-<h1 id="animity--en">Animity  <code>EN</code>
-</h1><p><a class="link" href="https://github.com/kl3jvi/animity"  target="_blank" rel="noopener"
-    >https://github.com/kl3jvi/animity</a>
-#AnimeZ <code>EN</code>
-<a class="link" href="https://animez.org/"  target="_blank" rel="noopener"
-    >https://animez.org/</a></p>
-<h1 id="animetv-en-tv">AnimeTV <code>EN</code> <code>TV</code>
-</h1><p><a class="link" href="https://github.com/amarullz/AnimeTV"  target="_blank" rel="noopener"
-    >https://github.com/amarullz/AnimeTV</a></p>
-<h1 id="streamflix--在线-多语言-tv">StreamFlix  <code>在线</code> <code>多语言</code> <code>TV</code>
-</h1><p><a class="link" href="https://github.com/stantanasi/streamflix/releases/tag/v1.6.10"  target="_blank" rel="noopener"
-    >https://github.com/stantanasi/streamflix/releases/tag/v1.6.10</a></p>
-<h1 id="次元城">次元城
-</h1><p><a class="link" href="https://alist.95189371.cn/Program/Windows"  target="_blank" rel="noopener"
-    >https://alist.95189371.cn/Program/Windows</a>
-—</p>
-<h1 id="pilipili">Pilipili
-</h1><p><a class="link" href="http://pilipili.org"  target="_blank" rel="noopener"
-    >http://pilipili.org</a></p>
-<h1 id="去看吧">去看吧
-</h1><p><a class="link" href="https://qkan8.com/"  target="_blank" rel="noopener"
-    >https://qkan8.com/</a></p>
-<h1 id="anfun">AnFun
-</h1><p><a class="link" href="https://www.anfuns.cc/"  target="_blank" rel="noopener"
-    >https://www.anfuns.cc/</a></p>
-<h1 id="稀饭动漫">稀饭动漫
-</h1><p><a class="link" href="https://dick.xfani.com/"  target="_blank" rel="noopener"
-    >https://dick.xfani.com/</a></p>
-<h1 id="呵呵动漫">呵呵动漫
-</h1><p><a class="link" href="https://www.hehe.la/"  target="_blank" rel="noopener"
-    >https://www.hehe.la/</a></p>
-<h1 id="亿萌动漫--">亿萌动漫  😇
-</h1><p><a class="link" href="https://www.acgyaojun.com/"  target="_blank" rel="noopener"
-    >https://www.acgyaojun.com/</a></p>
-<h1 id="橘子动漫">橘子动漫
-</h1><p><a class="link" href="https://www.mgnacg.com/"  target="_blank" rel="noopener"
-    >https://www.mgnacg.com/</a></p>
-<h1 id="蜜糖动漫">蜜糖动漫
-</h1><p><a class="link" href="https://www.mtacg.tv/"  target="_blank" rel="noopener"
-    >https://www.mtacg.tv/</a></p>
-<h1 id="西野动漫">西野动漫
-</h1><p><a class="link" href="https://www.xiyedm.com"  target="_blank" rel="noopener"
-    >https://www.xiyedm.com</a></p>
-<h1 id="异世界动漫">异世界动漫
-</h1><p><a class="link" href="https://www.dmmiku.com/"  target="_blank" rel="noopener"
-    >https://www.dmmiku.com/</a></p>
-<h1 id="萌番">萌番
-</h1><p><a class="link" href="https://www.mengfan.tv/"  target="_blank" rel="noopener"
-    >https://www.mengfan.tv/</a></p>
-<h1 id="次元城动漫">次元城动漫
-</h1><p><a class="link" href="https://www.cycani.org"  target="_blank" rel="noopener"
-    >https://www.cycani.org</a></p>
-<h1 id="lanerc-app">Lanerc APP
-</h1><p><a class="link" href="https://lanerc.moe/"  target="_blank" rel="noopener"
-    >https://lanerc.moe/</a></p>
-<h1 id="meofun-appbest-推荐">Meofun APP(best 推荐)
-</h1><p><a class="link" href="http://www.aowu.tv"  target="_blank" rel="noopener"
-    >http://www.aowu.tv</a></p>
-<h1 id="9anime-en">9anime EN
-</h1><p><a class="link" href="https://9animetv.to/"  target="_blank" rel="noopener"
-    >https://9animetv.to/</a></p>
-<h1 id="age">AGE
-</h1><p><a class="link" href="https://www.agedm.tv/"  target="_blank" rel="noopener"
-    >https://www.agedm.tv/</a></p>
-<p>图片就不给了，太多了，我懒，嘻嘻</p>
-<p>还有好多。。。。夜深了，不写了，
+<p><code>好像要linux环境配置？</code>
+嘛，正在研究中，搞好了这个，看电视直播以及看番组表不愁了，嘻嘻。
+贴上有关link：</p>
+<h1 id="konomitv">konomiTV
+</h1><p><a class="link" href="https://github.com/tsukumijima/KonomiTV/"  target="_blank" rel="noopener"
+    >https://github.com/tsukumijima/KonomiTV/</a></p>
+<h1 id="edcb">EDCB
+</h1><p><code>xtne6f版</code>:https://github.com/xtne6f/EDCB</p>
+<p><code>tkntrec版</code>:https://github.com/tkntrec/EDCB</p>
+<h1 id="mirakurun">Mirakurun
+</h1><p><a class="link" href="https://github.com/Chinachu/Mirakurun"  target="_blank" rel="noopener"
+    >https://github.com/Chinachu/Mirakurun</a></p>
+<p>不早了，第二天更新结束。
 <span style="color: red; ">
     それじゃ、おやすみ、見なさん
 </span>
@@ -539,6 +388,8 @@
             <a href="/tags/%E5%B7%A5%E5%85%B7/">工具</a>
         
             <a href="/tags/%E5%AE%9E%E7%94%A8/">实用</a>
+        
+            <a href="/tags/jp/">JP</a>
         
     </section>
 
@@ -584,18 +435,18 @@
             
                 
 <article class="has-image">
-    <a href="/post/konomitv/">
+    <a href="/post/tools/">
         
         
             <div class="article-image">
                 
-                    <img src="/post/konomiTVobject/0.png" loading="lazy" data-key="" data-hash="/post/konomiTVobject/0.png"/>
+                    <img src="/post/some-interesting-tools/toolgirl.png" loading="lazy" data-key="" data-hash="/post/some-interesting-tools/toolgirl.png"/>
                 
             </div>
         
 
         <div class="article-details">
-            <h2 class="article-title">KonomiTV研究</h2>
+            <h2 class="article-title">有趣的工具</h2>
         </div>
     </a>
 </article>

@@ -7,13 +7,85 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>wu138di</copyright>
-        <lastBuildDate>Mon, 13 Jan 2025 00:20:17 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 14 Jan 2025 01:16:16 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>KonomiTV研究</title>
+        <link>http://localhost:1313/post/konomitv/</link>
+        <pubDate>Tue, 14 Jan 2025 01:16:16 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/konomitv/</guid>
+        <description>&lt;img src="http://localhost:1313/post/konomiTVobject/0.png" alt="Featured image of post KonomiTV研究" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/konomiTVobject/1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+&amp;hellip;..这是我见过最难配置的电视直播软件，它有以下几个门槛：&lt;/p&gt;
+&lt;h1 id=&#34;1安装界面看不懂&#34;&gt;1：安装界面看不懂
+&lt;/h1&gt;&lt;p&gt;这是它的安装界面：
+&lt;img src=&#34;http://localhost:1313/post/konomiTVobject/2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+要有一定的日语水准才行(or 借助大模型？反正我看得懂)&lt;/p&gt;
+&lt;h1 id=&#34;2不清楚edcb是什么&#34;&gt;2：不清楚EDCB是什么
+&lt;/h1&gt;&lt;p&gt;这个。。。。。我到现在也不清楚是什么，官方是这么介绍的：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;EDCB（Epg Data Cap Bonanza） は、日本で開発されたオープンソースのツールで、デジタルテレビ（DTV）の番組データを管理するために使用されます。主に地上デジタル放送（地デジ、GR）や衛星放送（BS/CS）の信号を受信して録画するために利用されます。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; (&lt;span style=&#34;color: blue; &#34;&gt;
+    EDCB（Epg Data Cap Bonanza） 是一款用于管理数字电视（DTV）节目数据的日本开源工具，主要用于接收和录制电视信号。它通常被用作日本地面数字电视（地上デジタル，GR）、卫星电视（BS/CS）的节目录像工具。EDCB 功能强大，可以实现定时录制、电子节目表（EPG）管理、后台自动化操作等。
+&lt;/span&gt;
+
+)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;研究中.jpg
+以及这个：&lt;code&gt;Mirakurun&lt;/code&gt;
+&lt;img src=&#34;http://localhost:1313/post/konomiTVobject/3.svg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+&lt;code&gt;好像要linux环境配置？&lt;/code&gt;
+嘛，正在研究中，搞好了这个，看电视直播以及看番组表不愁了，嘻嘻。
+贴上有关link：&lt;/p&gt;
+&lt;h1 id=&#34;konomitv&#34;&gt;konomiTV
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/tsukumijima/KonomiTV/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/tsukumijima/KonomiTV/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;edcb&#34;&gt;EDCB
+&lt;/h1&gt;&lt;p&gt;&lt;code&gt;xtne6f版&lt;/code&gt;:https://github.com/xtne6f/EDCB
+&lt;code&gt;tkntrec版&lt;/code&gt;:https://github.com/tkntrec/EDCB&lt;/p&gt;
+&lt;h1 id=&#34;mirakurun&#34;&gt;Mirakurun
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Chinachu/Mirakurun&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Chinachu/Mirakurun&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;不早了，第二天更新结束。
+&lt;span style=&#34;color: red; &#34;&gt;
+    それじゃ、おやすみ、見なさん
+&lt;/span&gt;
+
+&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>有趣的工具</title>
         <link>http://localhost:1313/post/tools/</link>
         <pubDate>Mon, 13 Jan 2025 00:20:17 +0800</pubDate>
         
         <guid>http://localhost:1313/post/tools/</guid>
-        <description>&lt;p&gt;刚好无事，介绍一些有趣的工具吧，嘻嘻&lt;/p&gt;
+        <description>&lt;img src="http://localhost:1313/post/some-interesting-tools/toolgirl.png" alt="Featured image of post 有趣的工具" /&gt;&lt;p&gt;刚好无事，介绍一些有趣的工具吧，嘻嘻&lt;/p&gt;
 &lt;h2 id=&#34;chatgpt&#34;&gt;ChatGPT
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://chatgpt.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://chatgpt.com/&lt;/a&gt;&lt;/p&gt;
@@ -77,6 +149,118 @@
 	
 	
 &gt;&lt;/p&gt;
+&lt;p&gt;群友推荐的，放这里一份。&lt;/p&gt;
+&lt;h1 id=&#34;アニメ新番組---看番新番表&#34;&gt;アニメ新番組   看番/新番表
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bangumi.online/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://bangumi.online/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;anime1&#34;&gt;Anime1
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://anime1.me/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://anime1.me/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;hanime1&#34;&gt;Hanime1
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://hanime1.me/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://hanime1.me/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;girlgirllove&#34;&gt;Girlgirllove
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://anime.girigirilove.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://anime.girigirilove.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;樱之空&#34;&gt;樱之空
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.skr3.cc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.skr3.cc/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;e-acg-bd原盘&#34;&gt;E-ACG BD原盘
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://eacg.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://eacg.net/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;nyafun-bd原盘&#34;&gt;nyafun BD原盘
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nyafun.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.nyafun.net/&lt;/a&gt;
+—&lt;/p&gt;
+&lt;h1 id=&#34;纯纯看番-在线-插件源&#34;&gt;纯纯看番 &lt;code&gt;在线&lt;/code&gt; &lt;code&gt;插件源&lt;/code&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/easybangumiorg/EasyBangumi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/easybangumiorg/EasyBangumi&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/easybangumiorg/CommunityExtension&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/easybangumiorg/CommunityExtension&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/phj233/EasyBangumi-Extension-GuguFan&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/phj233/EasyBangumi-Extension-GuguFan&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;kazumi&#34;&gt;Kazumi
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Predidit/Kazumi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Predidit/Kazumi&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;knkpanime&#34;&gt;Knkpanime
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/KNKPA/KNKPAnime&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/KNKPA/KNKPAnime&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;oneanime&#34;&gt;oneAnime
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Predidit/oneAnime/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Predidit/oneAnime/&lt;/a&gt;
+#Any-reader
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/aooiuu/any-reader&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/aooiuu/any-reader&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;aniyomi-fork--在线-插件源&#34;&gt;Aniyomi-fork  &lt;code&gt;在线&lt;/code&gt; &lt;code&gt;插件源&lt;/code&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://aniyomi.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://aniyomi.org/&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://wotaku.moe/guides/tech/repo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://wotaku.moe/guides/tech/repo&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;animity--en&#34;&gt;Animity  &lt;code&gt;EN&lt;/code&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/kl3jvi/animity&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/kl3jvi/animity&lt;/a&gt;
+#AnimeZ &lt;code&gt;EN&lt;/code&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://animez.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://animez.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;animetv-en-tv&#34;&gt;AnimeTV &lt;code&gt;EN&lt;/code&gt; &lt;code&gt;TV&lt;/code&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/amarullz/AnimeTV&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/amarullz/AnimeTV&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;streamflix--在线-多语言-tv&#34;&gt;StreamFlix  &lt;code&gt;在线&lt;/code&gt; &lt;code&gt;多语言&lt;/code&gt; &lt;code&gt;TV&lt;/code&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/stantanasi/streamflix/releases/tag/v1.6.10&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/stantanasi/streamflix/releases/tag/v1.6.10&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;次元城&#34;&gt;次元城
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://alist.95189371.cn/Program/Windows&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://alist.95189371.cn/Program/Windows&lt;/a&gt;
+—&lt;/p&gt;
+&lt;h1 id=&#34;pilipili&#34;&gt;Pilipili
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://pilipili.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://pilipili.org&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;去看吧&#34;&gt;去看吧
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://qkan8.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://qkan8.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;anfun&#34;&gt;AnFun
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.anfuns.cc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.anfuns.cc/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;稀饭动漫&#34;&gt;稀饭动漫
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://dick.xfani.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://dick.xfani.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;呵呵动漫&#34;&gt;呵呵动漫
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.hehe.la/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.hehe.la/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;亿萌动漫--&#34;&gt;亿萌动漫  😇
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.acgyaojun.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.acgyaojun.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;橘子动漫&#34;&gt;橘子动漫
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.mgnacg.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.mgnacg.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;蜜糖动漫&#34;&gt;蜜糖动漫
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.mtacg.tv/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.mtacg.tv/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;西野动漫&#34;&gt;西野动漫
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.xiyedm.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.xiyedm.com&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;异世界动漫&#34;&gt;异世界动漫
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.dmmiku.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.dmmiku.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;萌番&#34;&gt;萌番
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.mengfan.tv/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.mengfan.tv/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;次元城动漫&#34;&gt;次元城动漫
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cycani.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.cycani.org&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;lanerc-app&#34;&gt;Lanerc APP
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://lanerc.moe/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://lanerc.moe/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;meofun-appbest-推荐&#34;&gt;Meofun APP(best 推荐)
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.aowu.tv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.aowu.tv&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;9anime-en&#34;&gt;9anime EN
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://9animetv.to/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://9animetv.to/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;age&#34;&gt;AGE
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.agedm.tv/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.agedm.tv/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;图片就不给了，太多了，我懒，嘻嘻&lt;/p&gt;
 &lt;p&gt;还有好多。。。。夜深了，不写了，
 &lt;span style=&#34;color: red; &#34;&gt;
     それじゃ、おやすみ、見なさん
