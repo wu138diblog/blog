@@ -31,8 +31,12 @@
 	loading=&#34;lazy&#34;
 	
 	
-&gt;
-要有一定的日语水准才行(or 借助大模型？反正我看得懂)&lt;/p&gt;
+&gt;&lt;/p&gt;
+&lt;p&gt;要有一定的日语水准才行(&lt;span style=&#34;color: red; &#34;&gt;
+    or 借助大模型？反正我看得懂
+&lt;/span&gt;
+
+)&lt;/p&gt;
 &lt;h1 id=&#34;2不清楚edcb是什么&#34;&gt;2：不清楚EDCB是什么
 &lt;/h1&gt;&lt;p&gt;这个。。。。。我到现在也不清楚是什么，官方是这么介绍的：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -58,16 +62,16 @@
 	loading=&#34;lazy&#34;
 	
 	
-&gt;
-&lt;code&gt;好像要linux环境配置？&lt;/code&gt;
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;好像要linux环境配置？&lt;/code&gt;
 嘛，正在研究中，搞好了这个，看电视直播以及看番组表不愁了，嘻嘻。
 贴上有关link：&lt;/p&gt;
 &lt;h1 id=&#34;konomitv&#34;&gt;konomiTV
 &lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/tsukumijima/KonomiTV/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/tsukumijima/KonomiTV/&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;edcb&#34;&gt;EDCB
-&lt;/h1&gt;&lt;p&gt;&lt;code&gt;xtne6f版&lt;/code&gt;:https://github.com/xtne6f/EDCB
-&lt;code&gt;tkntrec版&lt;/code&gt;:https://github.com/tkntrec/EDCB&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;code&gt;xtne6f版&lt;/code&gt;:https://github.com/xtne6f/EDCB&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;tkntrec版&lt;/code&gt;:https://github.com/tkntrec/EDCB&lt;/p&gt;
 &lt;h1 id=&#34;mirakurun&#34;&gt;Mirakurun
 &lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Chinachu/Mirakurun&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/Chinachu/Mirakurun&lt;/a&gt;&lt;/p&gt;
