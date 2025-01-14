@@ -45,6 +45,4 @@ EDCB（Epg Data Cap Bonanza） は、日本で開発されたオープンソー�
 # Mirakurun
 https://github.com/Chinachu/Mirakurun
 
-  不早了，第二天更新结束。
- {{< colored color="red" >}}それじゃ、おやすみ、見なさん{{< /colored >}}
- <p>最后修改时间：{{ .Lastmod }}</p>
+{{< colored color="red" >}}.....ok,弃更，要电视锅，还是110h的，上哪找去啊。。。。。。等我啥时候有了钱再说吧，哎。。。{{< /colored >}}
