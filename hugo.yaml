@@ -3,6 +3,8 @@ languageCode: zh-cn
 theme: Stack
 title: wu138di's blog
 copyright: wu138di
+enableGitInfo: true
+
 
 pagination:
     pagerSize: 10
