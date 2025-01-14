@@ -1,0 +1,16 @@
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; margin-top: 20px; display: flex; align-items: center; background-color: #f9f9f9;">
+    <div style="margin-right: 20px;">
+        <img src="{{ index .Params 1 }}" alt="{{ index .Params 0 }}" style="width: 120px; border-radius: 5px;">
+    </div>
+    <div style="flex: 1;">
+        <h3 style="margin: 0; font-size: 18px;">购买 {{ index .Params 0 }} - 就在 Steam</h3>
+        <p style="margin: 10px 0; font-size: 14px; color: #666;">
+            {{ index .Params 2 }}
+        </p>
+        <a href="{{ index .Params 3 }}" style="text-decoration: none; color: white; background-color: #1b7df7; padding: 10px 20px; border-radius: 5px;">在 Steam 上购买</a>
+    </div>
+    <div style="margin-left: 20px; text-align: center;">
+        <span style="font-size: 24px; color: #f00; font-weight: bold;">{{ index .Params 4 }}</span><br>
+        <span style="font-size: 16px; color: #666;">{{ index .Params 5 }}</span>
+    </div>
+</div>
