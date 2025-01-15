@@ -1,5 +1,5 @@
 +++
-author:"wu138di"
+author = "wu138di"
 title = '目前已知大厂资源，全年龄向整合入库版，懂得都懂，update（备份）'
 date = 2025-01-15T01:37:04+08:00
 description = ""
