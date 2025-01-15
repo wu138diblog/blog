@@ -58,11 +58,13 @@ link：https://www.adobe.com/cn/creativecloud/roc/business.html
 
 在```Adobe Creative Cloud```的安装没话说，直接懒人一顿操作，网速+电脑性能好的没几下就下载安装好了，没有什么技术可言。但是注意以下几点。
 
+
 {{< colored color="red" >}}1：下载PS时最好用代理，国内的速度太慢....{{< /colored >}}
 
 {{< colored color="red" >}}2：下载PS时不要将电脑休眠，否则Adobe Creative Cloud 会死机，造成PS安装失败，严重的电脑蓝屏！注意.{{< /colored >}}
 
 {{< colored color="red" >}}3：下载ps时等安装进度条走完在打开PS，否则会导致注册文件丢失，无法正常激活PS。{{< /colored >}}
+
 
 等```Adobe Creative Cloud```里，PS出现```打开```字样,说明安装成功了，我们就可以打开了
 

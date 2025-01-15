@@ -1,4 +1,5 @@
-<span style="color: {{ .Get "color" }}; {{ with .Get "size" }}font-size: {{ . }};{{ end }}">
+<span style="color: {{ .Get "color" }}; white-space: pre-line;{{ with .Get "size" }}font-size: {{ . }};{{ end }}">
     {{ .Inner }}
 </span>
+
 
