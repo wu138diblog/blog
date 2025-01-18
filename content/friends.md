@@ -21,7 +21,7 @@ So easy，发邮件给 wudihao138@gmail.com
 
 ```
 昵称：wu138di
-头像：https://blog.wu138di.xyz/assets/img/wu138di.png
+头像：https://blog.wu138di.xyz/pic/wu138di.png
 网址：https://blog.wu138di.xyz／
 简介：いつも元気だったよ！
 ```
