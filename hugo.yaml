@@ -1,4 +1,4 @@
-baseurl: https://wu138di.us.kg/
+baseurl: https://blog.wu138di.xyz/
 languageCode: zh-cn
 theme: stack
 title: wu138di's blog
@@ -26,7 +26,7 @@ params:
 
     sidebar:
         emoji: 🥮
-        subtitle: I'm best!
+        subtitle: いつも元気だったよ！
         avatar:
             enabled: true
             local: true
