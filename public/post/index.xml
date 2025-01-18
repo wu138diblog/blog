@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>wu138di</copyright>
-        <lastBuildDate>Thu, 16 Jan 2025 01:56:38 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 16 Jan 2025 02:11:37 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>PS?嘻嘻（教程）</title>
         <link>http://localhost:1313/post/ps/</link>
         <pubDate>Wed, 15 Jan 2025 01:37:37 +0800</pubDate>
@@ -24,17 +24,19 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;xswl！( &lt;span style=&#34;color: red; &#34;&gt;
+&lt;p&gt;xswl！( &lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     当然，并不是这个软件本身不好啊，但是这个肯定是要付费的.而且不知道是不是把官方激活套了个套
 &lt;/span&gt;
+
 
 )&lt;/p&gt;
 &lt;p&gt;以下是正规的PS下载，安装，激活，教程。&lt;/p&gt;
 &lt;h1 id=&#34;1adobe-creative-cloud-下载&#34;&gt;1：Adobe Creative Cloud 下载
 &lt;/h1&gt;&lt;p&gt;我个人比教推荐使用&lt;code&gt;Adobe Creative Cloud&lt;/code&gt;里安装，速度快，没有繁琐的教程。&lt;/p&gt;
-&lt;p&gt;首先，我们要进入这个网站（&lt;span style=&#34;color: red; &#34;&gt;
+&lt;p&gt;首先，我们要进入这个网站（&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     认准官方网址
 &lt;/span&gt;
+
 
 ）&lt;/p&gt;
 &lt;p&gt;link：https://www.adobe.com/cn/creativecloud/roc/business.html&lt;/p&gt;
@@ -72,36 +74,42 @@
 &lt;p&gt;这样你就可以下载PS了。&lt;/p&gt;
 &lt;h1 id=&#34;2ps下载及其安装&#34;&gt;2：PS下载及其安装
 &lt;/h1&gt;&lt;p&gt;在&lt;code&gt;Adobe Creative Cloud&lt;/code&gt;的安装没话说，直接懒人一顿操作，网速+电脑性能好的没几下就下载安装好了，没有什么技术可言。但是注意以下几点。&lt;/p&gt;
-&lt;span style=&#34;color: red; &#34;&gt;
+&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     1：下载PS时最好用代理，国内的速度太慢....
 &lt;/span&gt;
 
 
-&lt;span style=&#34;color: red; &#34;&gt;
+
+&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     2：下载PS时不要将电脑休眠，否则Adobe Creative Cloud 会死机，造成PS安装失败，严重的电脑蓝屏！注意.
 &lt;/span&gt;
 
 
-&lt;span style=&#34;color: red; &#34;&gt;
+
+&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     3：下载ps时等安装进度条走完在打开PS，否则会导致注册文件丢失，无法正常激活PS。
 &lt;/span&gt;
 
 
+
 &lt;p&gt;等&lt;code&gt;Adobe Creative Cloud&lt;/code&gt;里，PS出现&lt;code&gt;打开&lt;/code&gt;字样,说明安装成功了，我们就可以打开了&lt;/p&gt;
 &lt;h1 id=&#34;3ps激活&#34;&gt;3：PS激活
-&lt;/h1&gt;&lt;p&gt;没错，你在&lt;code&gt;Adobe Creative Cloud&lt;/code&gt;下载了PS，你还是要激活。。。。激活用上面工具，or支持正版即可，你可以去选择最开始的那个（&lt;span style=&#34;color: red; &#34;&gt;
+&lt;/h1&gt;&lt;p&gt;没错，你在&lt;code&gt;Adobe Creative Cloud&lt;/code&gt;下载了PS，你还是要激活。。。。激活用上面工具，or支持正版即可，你可以去选择最开始的那个（&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     有坑别怪我
 &lt;/span&gt;
 
+
 ），也可以在&lt;code&gt;官网&lt;/code&gt;or&lt;code&gt;Adobe Creative Cloud&lt;/code&gt;中购买,官网购买link&lt;a class=&#34;link&#34; href=&#34;https://www.adobe.com/cn/genuine/landing-dnr.html?msockid=326c42a32fbf6ca005b1564a2efa6d75&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;span style=&#34;color: blue; &#34;&gt;
+    &gt;&lt;span style=&#34;color: blue; white-space: pre-line;&#34;&gt;
     点这里
 &lt;/span&gt;
 
+
 &lt;/a&gt;,不放心的话，可以看看在中国的经销商&lt;a class=&#34;link&#34; href=&#34;https://www.adobe.com/cn/creativecloud/roc/information/resellers-platinum.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;span style=&#34;color: yellow; &#34;&gt;
+    &gt;&lt;span style=&#34;color: yellow; white-space: pre-line;&#34;&gt;
     这里查看
 &lt;/span&gt;
+
 
 &lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;经过以上操作，恭喜你成功安装激活了PS，快快遨游在PS的海洋里吧！&lt;/p&gt;
@@ -114,15 +122,17 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;题外话：其实还是有一些安装激活教程的，列如&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/11674820230&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;span style=&#34;color: red; &#34;&gt;
+    &gt;&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     这里
 &lt;/span&gt;
 
+
 &lt;/a&gt;的离线安装包教程,这是直接提取安装包并破解。。。但是安全性未知，推荐用以上&lt;code&gt;Adobe Creative Cloud&lt;/code&gt;下载安装的办法。&lt;/p&gt;
 &lt;p&gt;好了，这期教程结束，累死我了，睡了睡了，勤奋更新的第四天。&lt;/p&gt;
-&lt;span style=&#34;color: red; &#34;&gt;
+&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     それじゃ、おやすみ、見なさん
 &lt;/span&gt;
+
 
 
 &lt;p&gt;工具：&lt;/p&gt;
@@ -184,9 +194,10 @@
 如果Steam下载报54错误。请下载附件2。&lt;/p&gt;
 &lt;p&gt;感兴趣的话可以收藏一下哟。😂&lt;/p&gt;
 &lt;p&gt;以下是新增资源:&lt;/p&gt;
-&lt;h2 id=&#34;hahahugoshortcode7s0hbhb&#34;&gt;&lt;span style=&#34;color: red; &#34;&gt;
+&lt;h2 id=&#34;hahahugoshortcode7s0hbhb&#34;&gt;&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     注：更新资源已买过的付1T币即可
 &lt;/span&gt;
+
 
 
 &lt;/h2&gt;&lt;h1 id=&#34;nekopara&#34;&gt;NEKOPARA
@@ -242,9 +253,10 @@
 &lt;p&gt;44:CLANNAD&lt;/p&gt;
 &lt;p&gt;45:Rewrite+&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;46：SINce Memories: Off The Starry Sky（星穹之下）&lt;span style=&#34;color: red; &#34;&gt;
+&lt;p&gt;46：SINce Memories: Off The Starry Sky（星穹之下）&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     这周才上的，哈哈
 &lt;/span&gt;
+
 
 &lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/galgame%28backup%29/0.avif&#34;
@@ -258,9 +270,10 @@
 &lt;p&gt;下载请到&lt;a class=&#34;link&#34; href=&#34;https://bbs.steamtools.net/forum.php?mod=viewthread&amp;amp;tid=16774&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;原link&lt;/a&gt;下载哦😋&lt;/p&gt;
 &lt;p&gt;第三天结束&lt;/p&gt;
-&lt;span style=&#34;color: red; &#34;&gt;
+&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     それじゃ、おやすみ、見なさん
 &lt;/span&gt;
+
 
 
 </description>
@@ -290,9 +303,10 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;要有一定的日语水准才行(&lt;span style=&#34;color: red; &#34;&gt;
+&lt;p&gt;要有一定的日语水准才行(&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     or 借助大模型？反正我看得懂
 &lt;/span&gt;
+
 
 )&lt;/p&gt;
 &lt;h1 id=&#34;2不清楚edcb是什么&#34;&gt;2：不清楚EDCB是什么
@@ -304,9 +318,10 @@
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;EDCB（Epg Data Cap Bonanza） は、日本で開発されたオープンソースのツールで、デジタルテレビ（DTV）の番組データを管理するために使用されます。主に地上デジタル放送（地デジ、GR）や衛星放送（BS/CS）の信号を受信して録画するために利用されます。
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; (&lt;span style=&#34;color: blue; &#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; (&lt;span style=&#34;color: blue; white-space: pre-line;&#34;&gt;
     EDCB（Epg Data Cap Bonanza） 是一款用于管理数字电视（DTV）节目数据的日本开源工具，主要用于接收和录制电视信号。它通常被用作日本地面数字电视（地上デジタル，GR）、卫星电视（BS/CS）的节目录像工具。EDCB 功能强大，可以实现定时录制、电子节目表（EPG）管理、后台自动化操作等。
 &lt;/span&gt;
+
 
 )
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
@@ -333,9 +348,10 @@
 &lt;h1 id=&#34;mirakurun&#34;&gt;Mirakurun
 &lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Chinachu/Mirakurun&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/Chinachu/Mirakurun&lt;/a&gt;&lt;/p&gt;
-&lt;span style=&#34;color: red; &#34;&gt;
+&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     .....ok,弃更，要电视锅，还是110h的，上哪找去啊。。。。。。等我啥时候有了钱再说吧，哎。。。
 &lt;/span&gt;
+
 
 
 </description>
@@ -523,9 +539,10 @@
     &gt;https://www.agedm.tv/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;图片就不给了，太多了，我懒，嘻嘻&lt;/p&gt;
 &lt;p&gt;还有好多。。。。夜深了，不写了，
-&lt;span style=&#34;color: red; &#34;&gt;
+&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     それじゃ、おやすみ、見なさん
 &lt;/span&gt;
+
 
 &lt;/p&gt;
 </description>

@@ -32,9 +32,10 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;要有一定的日语水准才行(&lt;span style=&#34;color: red; &#34;&gt;
+&lt;p&gt;要有一定的日语水准才行(&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     or 借助大模型？反正我看得懂
 &lt;/span&gt;
+
 
 )&lt;/p&gt;
 &lt;h1 id=&#34;2不清楚edcb是什么&#34;&gt;2：不清楚EDCB是什么
@@ -46,9 +47,10 @@
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;EDCB（Epg Data Cap Bonanza） は、日本で開発されたオープンソースのツールで、デジタルテレビ（DTV）の番組データを管理するために使用されます。主に地上デジタル放送（地デジ、GR）や衛星放送（BS/CS）の信号を受信して録画するために利用されます。
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; (&lt;span style=&#34;color: blue; &#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; (&lt;span style=&#34;color: blue; white-space: pre-line;&#34;&gt;
     EDCB（Epg Data Cap Bonanza） 是一款用于管理数字电视（DTV）节目数据的日本开源工具，主要用于接收和录制电视信号。它通常被用作日本地面数字电视（地上デジタル，GR）、卫星电视（BS/CS）的节目录像工具。EDCB 功能强大，可以实现定时录制、电子节目表（EPG）管理、后台自动化操作等。
 &lt;/span&gt;
+
 
 )
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
@@ -75,9 +77,10 @@
 &lt;h1 id=&#34;mirakurun&#34;&gt;Mirakurun
 &lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Chinachu/Mirakurun&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/Chinachu/Mirakurun&lt;/a&gt;&lt;/p&gt;
-&lt;span style=&#34;color: red; &#34;&gt;
+&lt;span style=&#34;color: red; white-space: pre-line;&#34;&gt;
     .....ok,弃更，要电视锅，还是110h的，上哪找去啊。。。。。。等我啥时候有了钱再说吧，哎。。。
 &lt;/span&gt;
+
 
 
 </description>
