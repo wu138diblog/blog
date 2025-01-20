@@ -9,6 +9,8 @@ categories = [
 tags = [
     "日常"
 ]
+
+image = "/post/suisuilian/sl.jpg"
 +++
 
 记录日常专用，代更新，考试考完再说
