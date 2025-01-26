@@ -10,7 +10,9 @@ tags = [
     "日常"
 ]
 
-image = "/post/suisuilian/sl.jpg"
+image = "/post/suisuilian/ssl.jpg"
 +++
 
 记录日常专用，代更新，考试考完再说
+
+最经家中事忙，没时间写文章，有空在更新吧！
