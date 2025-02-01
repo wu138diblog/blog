@@ -5,21 +5,22 @@
 <title>碎碎念</title>
 
 <link rel='canonical' href='http://localhost:1313/post/suisuilian/'>
+<link rel="icon" href="/kinisaki.ico" type="image/x-icon">
 
 <link rel="stylesheet" href="/scss/style.min.b9c8156d464c343bdacaf14a871581fb94cbbdb9dd5cbce4ba017361187cc930.css"><meta property='og:title' content="碎碎念">
 <meta property='og:description' content="hu&mdash;&ndash; 终于有空了，祝大家新年快乐！写一个烟花送给大家！\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 const canvas = document.getElementById(&#39;fireworksCanvas&#39;); const ctx = canvas.getContext(&#39;2d&#39;); canvas.width = window.innerWidth; canvas.height = window.innerHeight; let particles = []; function randomColor() { const colors = [&#39;#ff5e57&#39;, &#39;#ffbc42&#39;, &#39;#4bd3a1&#39;, &#39;#32a0f6&#39;, &#39;#f542bc&#39;]; return colors[Math.floor(Math.random() * colors.length)]; } class Particle { constructor(x, y, color) { this.x = x; this.y = y; this.size = Math.random() * 5 + 1; this.speedX = (Math.random() - 0.5) * 6; this.speedY = (Math.random() - 0.5) * 6; this.color = color; this.life = 100; } update() { this.x += this.speedX; this.y += this.speedY; this.life -= 2; } draw() { ctx.beginPath(); ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2); ctx.fillStyle = this.color; ctx.fill(); } isAlive() { return this.life &gt; 0; } } function createFirework(x, y) { const color = randomColor(); for (let i = 0; i &lt; 100; i++) { particles.push(new Particle(x, y, color)); } } function animateFireworks() { ctx.clearRect(0, 0, canvas.width, canvas.height); particles = particles.filter(p =&gt; p.isAlive()); particles.forEach(particle =&gt; { particle.update(); particle.draw(); }); if (particles.length === 0) { createFirework(canvas.width / 2, canvas.height / 2); } requestAnimationFrame(animateFireworks); } animateFireworks(); &hellip;.完了，咋实现呢？？？源代码奉上？？？晕了\n">
 <meta property='og:url' content='http://localhost:1313/post/suisuilian/'>
 <meta property='og:site_name' content='wu138di&#39;s blog'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='日常' /><meta property='article:published_time' content='2025-01-21T00:54:54&#43;08:00'/><meta property='article:modified_time' content='2025-01-26T09:22:43&#43;08:00'/><meta property='og:image' content='http://localhost:1313/post/suisuilian/ssl.jpg' />
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='日常' /><meta property='article:published_time' content='2025-01-21T00:54:54&#43;08:00'/><meta property='article:modified_time' content='2025-02-01T15:23:21&#43;08:00'/><meta property='og:image' content='http://localhost:1313/post/suisuilian/ssl.jpg' />
 <meta name="twitter:title" content="碎碎念">
 <meta name="twitter:description" content="hu&mdash;&ndash; 终于有空了，祝大家新年快乐！写一个烟花送给大家！\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 const canvas = document.getElementById(&#39;fireworksCanvas&#39;); const ctx = canvas.getContext(&#39;2d&#39;); canvas.width = window.innerWidth; canvas.height = window.innerHeight; let particles = []; function randomColor() { const colors = [&#39;#ff5e57&#39;, &#39;#ffbc42&#39;, &#39;#4bd3a1&#39;, &#39;#32a0f6&#39;, &#39;#f542bc&#39;]; return colors[Math.floor(Math.random() * colors.length)]; } class Particle { constructor(x, y, color) { this.x = x; this.y = y; this.size = Math.random() * 5 + 1; this.speedX = (Math.random() - 0.5) * 6; this.speedY = (Math.random() - 0.5) * 6; this.color = color; this.life = 100; } update() { this.x += this.speedX; this.y += this.speedY; this.life -= 2; } draw() { ctx.beginPath(); ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2); ctx.fillStyle = this.color; ctx.fill(); } isAlive() { return this.life &gt; 0; } } function createFirework(x, y) { const color = randomColor(); for (let i = 0; i &lt; 100; i++) { particles.push(new Particle(x, y, color)); } } function animateFireworks() { ctx.clearRect(0, 0, canvas.width, canvas.height); particles = particles.filter(p =&gt; p.isAlive()); particles.forEach(particle =&gt; { particle.update(); particle.draw(); }); if (particles.length === 0) { createFirework(canvas.width / 2, canvas.height / 2); } requestAnimationFrame(animateFireworks); } animateFireworks(); &hellip;.完了，咋实现呢？？？源代码奉上？？？晕了\n"><meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content='http://localhost:1313/post/suisuilian/ssl.jpg' />
-    <link rel="shortcut icon" href="/static/favicon.webp" />
+    <link rel="shortcut icon" href="/static/kinisaki.ico" />
 
     </head>
     <body class="
     article-page
-    <p>最后修改时间：2025-01-26 09:22:43 &#43;0800 CST</p>
+    <p>最后修改时间：2025-02-01 15:23:21 &#43;0800 CST</p>
 ">
     <script>
         (function() {
@@ -476,7 +477,7 @@
 
 
         <span>
-            Last updated on Jan 26, 2025 09:22 CST
+            Last updated on Feb 01, 2025 15:23 CST
         </span>
     </section></footer>
 

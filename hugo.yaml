@@ -18,7 +18,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: static/favicon.webp
+    favicon: static/kinisaki.ico
 
     footer:
         since: 2024
