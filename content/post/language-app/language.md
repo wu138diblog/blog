@@ -42,7 +42,6 @@ image = "/post/language-app/duolinggo.svg"
 ![](/post/language-app/english.png)
 
 其实这款软件叫英语流利说，但是我习惯把它称之为流利说英语，寓意流利的说英语，这个app的课程是跟据中小学生的英语课程来设计的，当然他们也不单单是同步课程，还有一系列好玩的课程，有朗读，有AI场景模拟对话（```比chatGPT还要早```）,一大堆好玩的等你探索哦，不过这个也是要买他们的课程才玩得起来，1对1定制课程，有专门的语言学习群，时刻汇报学习情况，老师即便24小时在线，可真的称得上尽心尽责！当然，这些请理性购买哦（```懂你英语A+，只推荐买这个，有需求的话```）{{< colored color="yellow" >}}Welcome to liulishuo!{{< /colored >}}
-![](/post/language-app/w2.png)
 
 ![](/post/language-app/w3.png)
 
