@@ -29,7 +29,7 @@ image = "/post/language-app/duolinggo.svg"
 
 ![](/post/language-app/hellotalk.png)
 
-这款app更加强大，你不仅可以在这个app里学习各种语言，你还可以时时跟外国人进行交流，不论是哪国人，你都可以在这个app里找到他们，与他们交谈，锻炼自己的口语能力，收获异国友情。这个软件还有语伴，帖子改错，语房，直播等一系列功能，可以让你在自己学习的过程中，也可以帮助别人一起学习，互帮互助。实在是学语言的最佳神器！但是。。。。它的VIP好贵！！！有VIP的话，体验感更加，请大家理性购买。{{< colored color="red" >}}ssl：其实这款APP没有vip玩不起来。。。{{< /colored >}}他还有四款额外的app，大家在app中探索吧！{{< colored color="blue" >}}Welcome to Hellotalk!{{< /colored >}}
+这款app更加强大，主体在法国。你不仅可以在这个app里学习各种语言，你还可以时时跟外国人进行交流，不论是哪国人，你都可以在这个app里找到他们，与他们交谈，锻炼自己的口语能力，收获异国友情。这个软件还有语伴，帖子改错，语房，直播等一系列功能，可以让你在自己学习的过程中，也可以帮助别人一起学习，互帮互助。实在是学语言的最佳神器！但是。。。。它的VIP好贵！！！有VIP的话，体验感更加，请大家理性购买。{{< colored color="red" >}}tips：其实这款APP没有vip玩不起来。。。以及这款app可能对一些敏感话题查的比较紧，大家要注意哦！不要跟外国友人起冲突哦！🙂{{< /colored >}}它还有四款额外的app，大家在app中探索吧！{{< colored color="blue" >}}Welcome to Hellotalk!{{< /colored >}}
 ![](/post/language-app/w2.png)
 ```主页：```
 
