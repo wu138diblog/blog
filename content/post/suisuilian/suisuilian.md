@@ -89,3 +89,11 @@ animateFireworks();
 不管了，大概过几天我就更新了，给大家带来全新一期xxx教程，嘻嘻，暂且不告诉你们，期待吧！
 
 大家，元宵节快乐！
+
+2025.2.22
+
+气死我了，被同学坑了钱，啊啊啊啊，王鑫，我恨你！
+
+![](post/suisuilian/q.png)
+
+![](post/suisuilian/s.png)
